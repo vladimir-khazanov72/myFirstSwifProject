@@ -10,9 +10,9 @@
 		1249F589252BC8E700C904FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1249F588252BC8E700C904FB /* AppDelegate.swift */; };
 		1249F58B252BC8E700C904FB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1249F58A252BC8E700C904FB /* SceneDelegate.swift */; };
 		1249F58D252BC8E700C904FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1249F58C252BC8E700C904FB /* ViewController.swift */; };
-		1249F590252BC8E700C904FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1249F58E252BC8E700C904FB /* Main.storyboard */; };
 		1249F592252BC8E800C904FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1249F591252BC8E800C904FB /* Assets.xcassets */; };
 		1249F595252BC8E800C904FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1249F593252BC8E800C904FB /* LaunchScreen.storyboard */; };
+		128404BE25461C3F00D6A191 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1249F58E252BC8E700C904FB /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -124,9 +124,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				128404BE25461C3F00D6A191 /* Main.storyboard in Resources */,
 				1249F595252BC8E800C904FB /* LaunchScreen.storyboard in Resources */,
 				1249F592252BC8E800C904FB /* Assets.xcassets in Resources */,
-				1249F590252BC8E700C904FB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
