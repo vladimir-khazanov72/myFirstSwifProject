@@ -12,6 +12,7 @@
 		1249F58D252BC8E700C904FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1249F58C252BC8E700C904FB /* ViewController.swift */; };
 		1249F592252BC8E800C904FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1249F591252BC8E800C904FB /* Assets.xcassets */; };
 		1249F595252BC8E800C904FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1249F593252BC8E800C904FB /* LaunchScreen.storyboard */; };
+		1273FCB92548B489007B88E7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 1273FCB82548B489007B88E7 /* .gitignore */; };
 		128404BE25461C3F00D6A191 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1249F58E252BC8E700C904FB /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -24,6 +25,7 @@
 		1249F591252BC8E800C904FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1249F594252BC8E800C904FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1249F596252BC8E800C904FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1273FCB82548B489007B88E7 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		1249F57C252BC8E700C904FB = {
 			isa = PBXGroup;
 			children = (
+				1273FCB82548B489007B88E7 /* .gitignore */,
 				1249F587252BC8E700C904FB /* WeekDay */,
 				1249F586252BC8E700C904FB /* Products */,
 			);
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1273FCB92548B489007B88E7 /* .gitignore in Resources */,
 				128404BE25461C3F00D6A191 /* Main.storyboard in Resources */,
 				1249F595252BC8E800C904FB /* LaunchScreen.storyboard in Resources */,
 				1249F592252BC8E800C904FB /* Assets.xcassets in Resources */,
